@@ -9,6 +9,7 @@ public class Find_Max_Number {
 
 	public static void main(String[] args) {
 		int [] arr= {10,20,30,40,12,34,56,54,32,20,2,2,3,1,1,1,3,3};
+		System.err.println("Changes in git");
 		
 		List<Integer> li=new ArrayList<Integer>();
 		for(Integer a:arr) {
