@@ -54,8 +54,9 @@ public class API {
 		            }
 		        }
 		    }
-
+		    System.out.println(sb.toString());
 		    return sb.toString();
+		   
 
 		}
 
